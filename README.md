@@ -1,4 +1,4 @@
-#  LMS Platform – Module 6 Assignment
+#   Module 6 Assignment
 
 
 ---
@@ -24,7 +24,6 @@ To build a functional routing system and a role-based dashboard for the LMS plat
 
 ##  Folder Structure
 
-txt
 Module6_Assignment/
 │
 ├── server/
@@ -65,11 +64,6 @@ Module6_Assignment/
 │
 └── README.md
 
----
-
-*Tech Stack:* React (Vite + TypeScript), Tailwind CSS, TanStack Router, JWT, Axios, Node.js, MongoDB
-
----
 
 
 
@@ -79,8 +73,6 @@ Module6_Assignment/
 ##  How to Run the Project
 
 ###  Backend Setup
-
-1. Navigate to the backend directory:
 
 
 cd backend
@@ -106,14 +98,12 @@ npm install
 npm run dev
 
 
-The backend should be running on:  
  http://localhost:5000
 
 ---
 
 ###  Frontend Setup
 
-1. Navigate to the client directory:
 
 
 cd client
@@ -144,9 +134,9 @@ The frontend should be running on:
 
 json
 {
-  "name": "Adithya",
-  "email": "adithya@gmail.com",
-  "password": "123456",
+  "name": "poojitha",
+  "email": "pojith@gmail.com",
+  "password": "qwert6",
   "role": "student"
 }
 
@@ -159,8 +149,8 @@ json
 
 json
 {
-  "email": "adithya@gmail.com",
-  "password": "123456"
+  "email": "poojitha@gmail.com",
+  "password": "qwert6"
 }
 
 
